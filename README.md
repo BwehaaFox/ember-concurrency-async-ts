@@ -1,5 +1,12 @@
-ember-concurrency-ts
+ember-concurrency-async-ts
 ==============================================================================
+This fork fixing support [ember-concurrency-async][e-c-async]
+
+Without this fix `perform` method has type `any`
+
+Otherwise [Installation](#installation) remains relevant
+
+-----------------------------------------------------------------
 
 TypeScript utilities for [ember-concurrency][e-c].
 
