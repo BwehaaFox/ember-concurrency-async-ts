@@ -4,7 +4,7 @@ This fork fixing support [ember-concurrency-async][e-c-async]
 
 Without this fix `perform` method has type `any`
 
-[Installation](#installation) remains relevant
+[Installation](#installation) imports remains relevant
 
 -----------------------------------------------------------------
 
